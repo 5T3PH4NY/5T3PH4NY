@@ -4,11 +4,10 @@ _🌼 I’m currently in computer science college_
 
 💖 My favorite languages are python and C
 
-🪄 Trying to learn new things everyday
-
 ✉️ You can message me on my [email](stephanyjatai@gmail.com)
 
 ☀️ Have a good day
+
 
 <!---
 5T3PH4NY/5T3PH4NY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
