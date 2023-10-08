@@ -1,12 +1,20 @@
-## 🫡 Hi, I’m @5T3PH4NY
+## 🫡 Olá, sou @5T3PH4NY
 
-_🌼 I’m currently in computer science college_
+_🌼 Atualmente estou no processo de graduação em ciência da computação pela universidade federal do Ceará_
 
-💖 My favorite languages are python and C
+💖 Já faço trabalhos na área de IU/UX, photoshop e desing no geral.
 
-✉️ You can message me on my [email](stephanyjatai@gmail.com)
+🪄 Minhas linguagens favoritas são C e python.
 
-☀️ Have a good day
+✉️ Você pode falar comigo pelo meu [email](stephanyjatai@gmail.com)!
+
+<a href="https://github.com/5T3PH4NY/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=5T3PH4NY&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/5T3PH4NY/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5T3PH4NY&layout=compact&theme=dracula" />
+</a>
+
 
 
 <!---
